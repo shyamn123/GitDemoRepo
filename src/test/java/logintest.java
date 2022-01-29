@@ -8,6 +8,7 @@ public class logintest {
 
     public static void main(String[] args) {
          //trial comment for github
+         // trial 2
         System.setProperty("Webdriver.chrome.driver","C:\\Users\\Shyam\\Downloads\\chromedriver_win32 (4)\\chromedriver.exe");
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
